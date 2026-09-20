@@ -1,0 +1,3 @@
+Forage Virtual Internship - Backend Development
+
+Completed a Forage virtual internship focused on backend development and real-world software engineering practices. Gained hands-on experience designing backend solutions, working with APIs and data, writing clean and maintainable code, and testing functionality to ensure reliable results. Strengthened problem-solving, debugging, and teamwork skills by completing practical tasks based on industry scenarios.
